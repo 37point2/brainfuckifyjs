@@ -1,0 +1,18 @@
+{
+  "name": "brainfuckifyjs",
+  "version": "0.0.2",
+  "description": "Convert strings to Brainfuck code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "www.github.com/37point2/brainfuckifyjs"
+  },
+  "keywords": [
+    "brainfuck"
+  ],
+  "author": "Raymond Lilly <37point2@gmail.com>",
+  "license": "ISC"
+}
